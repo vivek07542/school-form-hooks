@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/school-form-hooks/static/css/main.e8cc8ec1.chunk.css",
+    "main.js": "/school-form-hooks/static/js/main.75191022.chunk.js",
+    "main.js.map": "/school-form-hooks/static/js/main.75191022.chunk.js.map",
+    "runtime-main.js": "/school-form-hooks/static/js/runtime-main.f1bed67e.js",
+    "runtime-main.js.map": "/school-form-hooks/static/js/runtime-main.f1bed67e.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "/school-form-hooks/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.f8213497.chunk.js": "/school-form-hooks/static/js/2.f8213497.chunk.js",
+    "static/js/2.f8213497.chunk.js.map": "/school-form-hooks/static/js/2.f8213497.chunk.js.map",
+    "static/js/3.dfb156c5.chunk.js": "/school-form-hooks/static/js/3.dfb156c5.chunk.js",
+    "static/js/3.dfb156c5.chunk.js.map": "/school-form-hooks/static/js/3.dfb156c5.chunk.js.map",
+    "index.html": "/school-form-hooks/index.html",
+    "static/css/2.4c97ca4f.chunk.css.map": "/school-form-hooks/static/css/2.4c97ca4f.chunk.css.map",
+    "static/css/main.e8cc8ec1.chunk.css.map": "/school-form-hooks/static/css/main.e8cc8ec1.chunk.css.map",
+    "static/js/2.f8213497.chunk.js.LICENSE.txt": "/school-form-hooks/static/js/2.f8213497.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f1bed67e.js",
+    "static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.f8213497.chunk.js",
+    "static/css/main.e8cc8ec1.chunk.css",
+    "static/js/main.75191022.chunk.js"
+  ]
+}
